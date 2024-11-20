@@ -6,6 +6,7 @@ export default defineConfig({
       input: {
         main: "./index.html",
         "privacy-policy": "./privacy-policy/index.html",
+        "terms-of-service": "./terms-of-service/index.html",
       },
     },
   },
